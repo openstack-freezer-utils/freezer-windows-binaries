@@ -30,6 +30,10 @@ How to deploy
 
 just clone this repo inside freezer path, e.g.
 
-    git clone https://github.com/memogarcia/freezer-windows-binaries C:\Python27\Lib\site-packages\freezer\bin
+    git clone https://github.com/memogarcia/freezer-windows-binaries C:\\Python27\\Lib\\site-packages\\freezer\\bin
 
 and that's it
+
+LIcense
+---------
+All binaries include their own source code and license file.
